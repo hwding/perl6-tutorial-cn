@@ -6,25 +6,25 @@
 译文对原文表达不当的地方做了适当的修改，表达不清晰的地方提供了译注，部分排版优化。
 
 ## 总目录
-### 第一章 初探Perl6
-- Hello World - 标量变量
-- Hello World - 嵌入变量
-- 读取键盘输入
-- 数字运算符
-- 将字符串自动转换为数字
-- 字符串操作符
-- 字符串的拼接
-- 字符串的反复
-- if语句 - 值的比较
-- 三元运算符
-- 比较运算符
-- 布尔表达式(逻辑运算符)
-- 链式比较
-- 一个简易计算器 - 使用值的比较
-- 一个简易计算器 - 使用given语句
-- string类型方法：index
-- string类型方法：substr
-- "超级"or(条件联结)
+### [第一章 初探Perl6](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#%E7%AC%AC%E4%B8%80%E7%AB%A0-%E5%88%9D%E6%8E%A2perl6)
+- [Hello World - 标量变量](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#hello-world---%E6%A0%87%E9%87%8F%E5%8F%98%E9%87%8F)
+- [Hello World - 嵌入变量](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#hello-world---%E5%B5%8C%E5%85%A5%E5%8F%98%E9%87%8F)
+- [读取键盘输入](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#%E8%AF%BB%E5%8F%96%E9%94%AE%E7%9B%98%E8%BE%93%E5%85%A5)
+- [数字运算符](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#%E6%95%B0%E5%AD%97%E8%BF%90%E7%AE%97%E7%AC%A6)
+- [将字符串自动转换为数字](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#%E5%B0%86%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%87%AA%E5%8A%A8%E8%BD%AC%E6%8D%A2%E4%B8%BA%E6%95%B0%E5%AD%97)
+- [字符串运算符](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BF%90%E7%AE%97%E7%AC%A6)
+- [字符串的拼接](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8B%BC%E6%8E%A5)
+- [字符串的反复](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E5%8F%8D%E5%A4%8D)
+- [if语句 - 值的比较](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#if%E8%AF%AD%E5%8F%A5---%E5%80%BC%E7%9A%84%E6%AF%94%E8%BE%83)
+- [三元运算符](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#%E4%B8%89%E5%85%83%E8%BF%90%E7%AE%97%E7%AC%A6)
+- [比较运算符](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#%E6%AF%94%E8%BE%83%E8%BF%90%E7%AE%97%E7%AC%A6)
+- [布尔表达式(逻辑运算符)](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#%E5%B8%83%E5%B0%94%E8%A1%A8%E8%BE%BE%E5%BC%8F%E9%80%BB%E8%BE%91%E8%BF%90%E7%AE%97%E7%AC%A6)
+- [链式比较](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#%E9%93%BE%E5%BC%8F%E6%AF%94%E8%BE%83)
+- [一个简易计算器 - 使用值的比较](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#%E4%B8%80%E4%B8%AA%E7%AE%80%E6%98%93%E8%AE%A1%E7%AE%97%E5%99%A8---%E4%BD%BF%E7%94%A8%E5%80%BC%E7%9A%84%E6%AF%94%E8%BE%83)
+- [一个简易计算器 - 使用given语句](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#%E4%B8%80%E4%B8%AA%E7%AE%80%E6%98%93%E8%AE%A1%E7%AE%97%E5%99%A8---%E4%BD%BF%E7%94%A8given%E8%AF%AD%E5%8F%A5)
+- [string类型方法：index](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#string%E7%B1%BB%E5%9E%8B%E6%96%B9%E6%B3%95index)
+- [string类型方法：substr](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#string%E7%B1%BB%E5%9E%8B%E6%96%B9%E6%B3%95substr)
+- ["超级"or(条件联结)](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#%E8%B6%85%E7%BA%A7or%E6%9D%A1%E4%BB%B6%E8%81%94%E7%BB%93)
 ### 第二章 元运算符
 - What are the meta operators
 - Assignment Operators
