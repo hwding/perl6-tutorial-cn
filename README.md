@@ -2,9 +2,9 @@
 <img height="64" width="64" src="https://perl6.org/camelia-logo.png" ></img>  
 翻译自 The-Perl-Maven's-Perl-6-Tutorial: http://perl6maven.com/tutorial/toc.
 ## 关于
-译者： [hwding](https://github.com/hwding) <<m@amastigote.com>>  
-仅供学习参考，不当之处请指正。  
-译文对原文表达不当的地方做了适当的修改，表达不清晰的地方提供了译注，部分排版优化。
+译： [hwding](https://github.com/hwding) <<m@amastigote.com>>  
+仅供学习参考，不恰之处敬请指正。  
+译文对原文表达不当之处做了适当的修改，在表达不清晰之处提供了译注，并优化了部分排版。
 
 ## 总目录
 ### [第一章 初探Perl6](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#%E7%AC%AC%E4%B8%80%E7%AB%A0-%E5%88%9D%E6%8E%A2perl6)
