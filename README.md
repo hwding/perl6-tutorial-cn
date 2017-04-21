@@ -1,4 +1,5 @@
 # Perl6 入门指导
+<img height="64" width="64" src="https://perl6.org/camelia-logo.png" ></img>  
 翻译自 The-Perl-Maven's-Perl-6-Tutorial: http://perl6maven.com/tutorial/toc.
 ## 关于
 译者： [hwding](https://github.com/hwding) <<m@amastigote.com>>  
