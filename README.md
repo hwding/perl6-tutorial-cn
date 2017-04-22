@@ -27,17 +27,17 @@
 - [string类型方法：index](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#string%E7%B1%BB%E5%9E%8B%E6%96%B9%E6%B3%95index)
 - [string类型方法：substr](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#string%E7%B1%BB%E5%9E%8B%E6%96%B9%E6%B3%95substr)
 - ["超级"or(条件联结)](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#%E8%B6%85%E7%BA%A7or%E6%9D%A1%E4%BB%B6%E8%81%94%E7%BB%93)
-### 第二章 元运算符
-- What are the meta operators
-- Assignment Operators
-- Method invocation in assignment
-- Calling a function during assignment
-- Negated Relation Operators
-- Reversed operators
-- Hyper Operators
-- Reduction operators
-- Reduction Triangle operators
-- Cross operators
+### [第二章 元运算符](https://github.com/hwding/perl6-doc-cn/blob/master/CH02.md#%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%85%83%E8%BF%90%E7%AE%97%E7%AC%A6)
+- [什么是元运算符](https://github.com/hwding/perl6-doc-cn/blob/master/CH02.md#%E4%BB%80%E4%B9%88%E6%98%AF%E5%85%83%E8%BF%90%E7%AE%97%E7%AC%A6)
+- [赋值运算符](https://github.com/hwding/perl6-doc-cn/blob/master/CH02.md#%E8%B5%8B%E5%80%BC%E8%BF%90%E7%AE%97%E7%AC%A6)
+- [在赋值时调用方法](https://github.com/hwding/perl6-doc-cn/blob/master/CH02.md#%E5%9C%A8%E8%B5%8B%E5%80%BC%E6%97%B6%E8%B0%83%E7%94%A8%E6%96%B9%E6%B3%95)
+- [在赋值时调用函数](https://github.com/hwding/perl6-doc-cn/blob/master/CH02.md#%E5%9C%A8%E8%B5%8B%E5%80%BC%E6%97%B6%E8%B0%83%E7%94%A8%E5%87%BD%E6%95%B0)
+- [否定关系运算符](https://github.com/hwding/perl6-doc-cn/blob/master/CH02.md#%E5%90%A6%E5%AE%9A%E5%85%B3%E7%B3%BB%E8%BF%90%E7%AE%97%E7%AC%A6)
+- [反转运算符](https://github.com/hwding/perl6-doc-cn/blob/master/CH02.md#%E5%8F%8D%E8%BD%AC%E8%BF%90%E7%AE%97%E7%AC%A6)
+- [超算符](https://github.com/hwding/perl6-doc-cn/blob/master/CH02.md#%E8%B6%85%E7%AE%97%E7%AC%A6)
+- [归约运算符](https://github.com/hwding/perl6-doc-cn/blob/master/CH02.md#%E5%BD%92%E7%BA%A6%E8%BF%90%E7%AE%97%E7%AC%A6)
+- [归约三角运算符](https://github.com/hwding/perl6-doc-cn/blob/master/CH02.md#%E5%BD%92%E7%BA%A6%E4%B8%89%E8%A7%92%E8%BF%90%E7%AE%97%E7%AC%A6)
+- [交叉运算符](https://github.com/hwding/perl6-doc-cn/blob/master/CH02.md#%E4%BA%A4%E5%8F%89%E8%BF%90%E7%AE%97%E7%AC%A6)
 ### 第三章 Junctions in Perl6
 - Junctions
 - More tutorial with Junctions
