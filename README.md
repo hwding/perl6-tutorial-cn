@@ -39,9 +39,9 @@
 - [归约运算符](https://github.com/hwding/perl6-doc-cn/blob/master/CH02.md#%E5%BD%92%E7%BA%A6%E8%BF%90%E7%AE%97%E7%AC%A6)
 - [归约三角运算符](https://github.com/hwding/perl6-doc-cn/blob/master/CH02.md#%E5%BD%92%E7%BA%A6%E4%B8%89%E8%A7%92%E8%BF%90%E7%AE%97%E7%AC%A6)
 - [交叉运算符](https://github.com/hwding/perl6-doc-cn/blob/master/CH02.md#%E4%BA%A4%E5%8F%89%E8%BF%90%E7%AE%97%E7%AC%A6)
-### 第三章 Junctions in Perl6
-- Junctions
-- More tutorial with Junctions
+### [第三章 Perl6中的联结](https://github.com/hwding/perl6-doc-cn/blob/master/CH03.md#perl6%E4%B8%AD%E7%9A%84%E8%81%94%E7%BB%93)
+- [联结](https://github.com/hwding/perl6-doc-cn/blob/master/CH03.md#%E8%81%94%E7%BB%93)
+- [更多关于联结的练习](https://github.com/hwding/perl6-doc-cn/blob/master/CH03.md#%E6%9B%B4%E5%A4%9A%E5%85%B3%E4%BA%8E%E8%81%94%E7%BB%93%E7%9A%84%E7%BB%83%E4%B9%A0)
 ### 第四章 Files in Perl6
 - exit
 - warn
