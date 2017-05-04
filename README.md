@@ -42,20 +42,20 @@
 ### [第三章 Perl6中的联结](https://github.com/hwding/perl6-doc-cn/blob/master/CH03.md#perl6%E4%B8%AD%E7%9A%84%E8%81%94%E7%BB%93)
 - [联结](https://github.com/hwding/perl6-doc-cn/blob/master/CH03.md#%E8%81%94%E7%BB%93)
 - [更多关于联结的练习](https://github.com/hwding/perl6-doc-cn/blob/master/CH03.md#%E6%9B%B4%E5%A4%9A%E5%85%B3%E4%BA%8E%E8%81%94%E7%BB%93%E7%9A%84%E7%BB%83%E4%B9%A0)
-### 第四章 Files in Perl6
-- exit
-- warn
-- die
-- Twigils and special variables
-- Read line from file
-- Read all the lines with get
-- Process a file line by line
-- Write to a file
-- Open file modes
-- slurp
-- Read lines into array
-- Exercise: Print sum of numbers
-- Solution: Print sum of numbers
+### [第四章 Perl6文件操作](https://github.com/hwding/perl6-doc-cn/blob/master/CH04.md#perl6%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C)
+- [exit()](https://github.com/hwding/perl6-doc-cn/blob/master/CH04.md#exit)
+- [warn()](https://github.com/hwding/perl6-doc-cn/blob/master/CH04.md#warn)
+- [die()](https://github.com/hwding/perl6-doc-cn/blob/master/CH04.md#die)
+- [Twigils与特殊变量](https://github.com/hwding/perl6-doc-cn/blob/master/CH04.md#twigils%E4%B8%8E%E7%89%B9%E6%AE%8A%E5%8F%98%E9%87%8F)
+- [读取文件](https://github.com/hwding/perl6-doc-cn/blob/master/CH04.md#%E8%AF%BB%E5%8F%96%E6%96%87%E4%BB%B6)
+- [使用get()读取所有行](https://github.com/hwding/perl6-doc-cn/blob/master/CH04.md#%E4%BD%BF%E7%94%A8get%E8%AF%BB%E5%8F%96%E6%89%80%E6%9C%89%E8%A1%8C)
+- [逐行读取文件](https://github.com/hwding/perl6-doc-cn/blob/master/CH04.md#%E9%80%90%E8%A1%8C%E8%AF%BB%E5%8F%96%E6%96%87%E4%BB%B6)
+- [写文件](https://github.com/hwding/perl6-doc-cn/blob/master/CH04.md#%E5%86%99%E6%96%87%E4%BB%B6)
+- [文件模式](https://github.com/hwding/perl6-doc-cn/blob/master/CH04.md#%E6%96%87%E4%BB%B6%E6%A8%A1%E5%BC%8F)
+- [slurp()与spurt()](https://github.com/hwding/perl6-doc-cn/blob/master/CH04.md#slurp%E4%B8%8Espurt)
+- [将文件逐行读取至数组](https://github.com/hwding/perl6-doc-cn/blob/master/CH04.md#%E5%B0%86%E6%96%87%E4%BB%B6%E9%80%90%E8%A1%8C%E8%AF%BB%E5%8F%96%E8%87%B3%E6%95%B0%E7%BB%84)
+- [练习：利用文件IO计算其中数字的和](https://github.com/hwding/perl6-doc-cn/blob/master/CH04.md#%E7%BB%83%E4%B9%A0%E5%88%A9%E7%94%A8%E6%96%87%E4%BB%B6io%E8%AE%A1%E7%AE%97%E5%85%B6%E4%B8%AD%E6%95%B0%E5%AD%97%E7%9A%84%E5%92%8C)
+- [答案：利用文件IO计算其中数字的和](https://github.com/hwding/perl6-doc-cn/blob/master/CH04.md#%E7%AD%94%E6%A1%88%E5%88%A9%E7%94%A8%E6%96%87%E4%BB%B6io%E8%AE%A1%E7%AE%97%E5%85%B6%E4%B8%AD%E6%95%B0%E5%AD%97%E7%9A%84%E5%92%8C)
 ### 第五章 Perl6 Lists and Arrays
 - List Literals, list ranges
 - List Assignment
