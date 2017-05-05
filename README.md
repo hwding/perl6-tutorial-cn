@@ -6,7 +6,7 @@
 仅供学习参考，不恰之处敬请指正。  
 译文对原文表达不当之处做了适当的修改，在表达不清晰之处提供了译注，并优化了部分排版。  
 另外，由于历史原因原文中的部分内容可能出现因过时而导致的错误，在翻译时也会做相应的修正并附以译注。  
-对原文以及代码的修正会以PR的形式提交到网站镜像[szabgab/perl6maven.com](https://github.com/szabgab/perl6maven.com/pulls?q=is%3Apr+author%3Ahwding+is%3Aclosed)。  
+对原文以及代码的修正会以PR的形式提交到网站镜像[szabgab/perl6maven.com](https://github.com/szabgab/perl6maven.com/pulls?utf8=%E2%9C%93&q=is%3Apr%20author%3Ahwding)。  
 
 ## 总目录
 ### [第一章 初探Perl6](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#%E7%AC%AC%E4%B8%80%E7%AB%A0-%E5%88%9D%E6%8E%A2perl6)
