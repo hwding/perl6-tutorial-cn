@@ -18,16 +18,16 @@
 - [字符串运算符](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BF%90%E7%AE%97%E7%AC%A6)
 - [字符串的拼接](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8B%BC%E6%8E%A5)
 - [字符串的反复](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E5%8F%8D%E5%A4%8D)
-- [if语句 - 值的比较](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#if%E8%AF%AD%E5%8F%A5---%E5%80%BC%E7%9A%84%E6%AF%94%E8%BE%83)
+- [`if`语句 - 值的比较](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#if%E8%AF%AD%E5%8F%A5---%E5%80%BC%E7%9A%84%E6%AF%94%E8%BE%83)
 - [三元运算符](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#%E4%B8%89%E5%85%83%E8%BF%90%E7%AE%97%E7%AC%A6)
 - [比较运算符](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#%E6%AF%94%E8%BE%83%E8%BF%90%E7%AE%97%E7%AC%A6)
 - [布尔表达式(逻辑运算符)](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#%E5%B8%83%E5%B0%94%E8%A1%A8%E8%BE%BE%E5%BC%8F%E9%80%BB%E8%BE%91%E8%BF%90%E7%AE%97%E7%AC%A6)
 - [链式比较](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#%E9%93%BE%E5%BC%8F%E6%AF%94%E8%BE%83)
 - [一个简易计算器 - 使用值的比较](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#%E4%B8%80%E4%B8%AA%E7%AE%80%E6%98%93%E8%AE%A1%E7%AE%97%E5%99%A8---%E4%BD%BF%E7%94%A8%E5%80%BC%E7%9A%84%E6%AF%94%E8%BE%83)
 - [一个简易计算器 - 使用given语句](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#%E4%B8%80%E4%B8%AA%E7%AE%80%E6%98%93%E8%AE%A1%E7%AE%97%E5%99%A8---%E4%BD%BF%E7%94%A8given%E8%AF%AD%E5%8F%A5)
-- [string类型方法：index](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#string%E7%B1%BB%E5%9E%8B%E6%96%B9%E6%B3%95index)
-- [string类型方法：substr](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#string%E7%B1%BB%E5%9E%8B%E6%96%B9%E6%B3%95substr)
-- ["超级"or(条件联结)](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#%E8%B6%85%E7%BA%A7or%E6%9D%A1%E4%BB%B6%E8%81%94%E7%BB%93)
+- [string类型方法：`index`](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#string%E7%B1%BB%E5%9E%8B%E6%96%B9%E6%B3%95index)
+- [string类型方法：`substr`](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#string%E7%B1%BB%E5%9E%8B%E6%96%B9%E6%B3%95substr)
+- ["超级"`or`(条件联结)](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#%E8%B6%85%E7%BA%A7or%E6%9D%A1%E4%BB%B6%E8%81%94%E7%BB%93)
 ### [第二章 元运算符](https://github.com/hwding/perl6-doc-cn/blob/master/CH02.md#%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%85%83%E8%BF%90%E7%AE%97%E7%AC%A6)
 - [什么是元运算符](https://github.com/hwding/perl6-doc-cn/blob/master/CH02.md#%E4%BB%80%E4%B9%88%E6%98%AF%E5%85%83%E8%BF%90%E7%AE%97%E7%AC%A6)
 - [赋值运算符](https://github.com/hwding/perl6-doc-cn/blob/master/CH02.md#%E8%B5%8B%E5%80%BC%E8%BF%90%E7%AE%97%E7%AC%A6)
@@ -43,39 +43,39 @@
 - [联结](https://github.com/hwding/perl6-doc-cn/blob/master/CH03.md#%E8%81%94%E7%BB%93)
 - [更多关于联结的练习](https://github.com/hwding/perl6-doc-cn/blob/master/CH03.md#%E6%9B%B4%E5%A4%9A%E5%85%B3%E4%BA%8E%E8%81%94%E7%BB%93%E7%9A%84%E7%BB%83%E4%B9%A0)
 ### [第四章 Perl6文件操作](https://github.com/hwding/perl6-doc-cn/blob/master/CH04.md#perl6%E6%96%87%E4%BB%B6%E6%93%8D%E4%BD%9C)
-- [exit()](https://github.com/hwding/perl6-doc-cn/blob/master/CH04.md#exit)
-- [warn()](https://github.com/hwding/perl6-doc-cn/blob/master/CH04.md#warn)
-- [die()](https://github.com/hwding/perl6-doc-cn/blob/master/CH04.md#die)
+- [`exit()`](https://github.com/hwding/perl6-doc-cn/blob/master/CH04.md#exit)
+- [`warn()`](https://github.com/hwding/perl6-doc-cn/blob/master/CH04.md#warn)
+- [`die()`](https://github.com/hwding/perl6-doc-cn/blob/master/CH04.md#die)
 - [Twigils与特殊变量](https://github.com/hwding/perl6-doc-cn/blob/master/CH04.md#twigils%E4%B8%8E%E7%89%B9%E6%AE%8A%E5%8F%98%E9%87%8F)
 - [读取文件](https://github.com/hwding/perl6-doc-cn/blob/master/CH04.md#%E8%AF%BB%E5%8F%96%E6%96%87%E4%BB%B6)
-- [使用get()读取所有行](https://github.com/hwding/perl6-doc-cn/blob/master/CH04.md#%E4%BD%BF%E7%94%A8get%E8%AF%BB%E5%8F%96%E6%89%80%E6%9C%89%E8%A1%8C)
+- [使用`get()`读取所有行](https://github.com/hwding/perl6-doc-cn/blob/master/CH04.md#%E4%BD%BF%E7%94%A8get%E8%AF%BB%E5%8F%96%E6%89%80%E6%9C%89%E8%A1%8C)
 - [逐行读取文件](https://github.com/hwding/perl6-doc-cn/blob/master/CH04.md#%E9%80%90%E8%A1%8C%E8%AF%BB%E5%8F%96%E6%96%87%E4%BB%B6)
 - [写文件](https://github.com/hwding/perl6-doc-cn/blob/master/CH04.md#%E5%86%99%E6%96%87%E4%BB%B6)
 - [文件模式](https://github.com/hwding/perl6-doc-cn/blob/master/CH04.md#%E6%96%87%E4%BB%B6%E6%A8%A1%E5%BC%8F)
-- [slurp()与spurt()](https://github.com/hwding/perl6-doc-cn/blob/master/CH04.md#slurp%E4%B8%8Espurt)
+- [`slurp()`与`spurt()`](https://github.com/hwding/perl6-doc-cn/blob/master/CH04.md#slurp%E4%B8%8Espurt)
 - [将文件逐行读取至数组](https://github.com/hwding/perl6-doc-cn/blob/master/CH04.md#%E5%B0%86%E6%96%87%E4%BB%B6%E9%80%90%E8%A1%8C%E8%AF%BB%E5%8F%96%E8%87%B3%E6%95%B0%E7%BB%84)
 - [练习：利用文件IO计算其中数字的和](https://github.com/hwding/perl6-doc-cn/blob/master/CH04.md#%E7%BB%83%E4%B9%A0%E5%88%A9%E7%94%A8%E6%96%87%E4%BB%B6io%E8%AE%A1%E7%AE%97%E5%85%B6%E4%B8%AD%E6%95%B0%E5%AD%97%E7%9A%84%E5%92%8C)
 - [答案：利用文件IO计算其中数字的和](https://github.com/hwding/perl6-doc-cn/blob/master/CH04.md#%E7%AD%94%E6%A1%88%E5%88%A9%E7%94%A8%E6%96%87%E4%BB%B6io%E8%AE%A1%E7%AE%97%E5%85%B6%E4%B8%AD%E6%95%B0%E5%AD%97%E7%9A%84%E5%92%8C)
-### 第五章 Perl6 Lists and Arrays
-- List Literals, list ranges
-- List Assignment
-- Swap two values
-- Loop over elements of list with for
-- Create array, go over elements
-- Array elements (create menu)
-- Array assignment
-- Command line options
-- Process CSV file
-- join
-- The uniq functions
-- Looping over a list of values one at a time, two at a time and more
-- Looping over any number of elements
-- Missing values
-- Iterating over more than one array in parallel
-- Z as in zip
-- xx - string multiplicator
-- sort values
-- Transform arrays and lists using map
+### [第五章 Perl6列表与数组](https://github.com/hwding/perl6-doc-cn/blob/master/CH05.md#perl6%E5%88%97%E8%A1%A8%E4%B8%8E%E6%95%B0%E7%BB%84)
+- [列表字面量](https://github.com/hwding/perl6-doc-cn/blob/master/CH05.md#%E5%88%97%E8%A1%A8%E5%AD%97%E9%9D%A2%E9%87%8F)
+- [列表赋值](https://github.com/hwding/perl6-doc-cn/blob/master/CH05.md#%E5%88%97%E8%A1%A8%E8%B5%8B%E5%80%BC)
+- [交换两个变量](https://github.com/hwding/perl6-doc-cn/blob/master/CH05.md#%E4%BA%A4%E6%8D%A2%E4%B8%A4%E4%B8%AA%E5%8F%98%E9%87%8F)
+- [使用`for`循环遍历列表元素](https://github.com/hwding/perl6-doc-cn/blob/master/CH05.md#%E4%BD%BF%E7%94%A8for%E5%BE%AA%E7%8E%AF%E9%81%8D%E5%8E%86%E5%88%97%E8%A1%A8%E5%85%83%E7%B4%A0)
+- [建立数组并遍历之](https://github.com/hwding/perl6-doc-cn/blob/master/CH05.md#%E5%BB%BA%E7%AB%8B%E6%95%B0%E7%BB%84%E5%B9%B6%E9%81%8D%E5%8E%86%E4%B9%8B)
+- [数组元素（创建目录）](https://github.com/hwding/perl6-doc-cn/blob/master/CH05.md#%E6%95%B0%E7%BB%84%E5%85%83%E7%B4%A0%E5%88%9B%E5%BB%BA%E7%9B%AE%E5%BD%95)
+- [数组赋值](https://github.com/hwding/perl6-doc-cn/blob/master/CH05.md#%E6%95%B0%E7%BB%84%E8%B5%8B%E5%80%BC)
+- [命令行选项](https://github.com/hwding/perl6-doc-cn/blob/master/CH05.md#%E5%91%BD%E4%BB%A4%E8%A1%8C%E9%80%89%E9%A1%B9)
+- [处理CSV文件](https://github.com/hwding/perl6-doc-cn/blob/master/CH05.md#%E5%A4%84%E7%90%86csv%E6%96%87%E4%BB%B6)
+- [联结](https://github.com/hwding/perl6-doc-cn/blob/master/CH05.md#%E8%81%94%E7%BB%93)
+- [`unique`函数](https://github.com/hwding/perl6-doc-cn/blob/master/CH05.md#unique%E5%87%BD%E6%95%B0)
+- [单值遍历](https://github.com/hwding/perl6-doc-cn/blob/master/CH05.md#%E5%8D%95%E5%80%BC%E9%81%8D%E5%8E%86)
+- [多值遍历](https://github.com/hwding/perl6-doc-cn/blob/master/CH05.md#%E5%A4%9A%E5%80%BC%E9%81%8D%E5%8E%86)
+- [缺少列表项](https://github.com/hwding/perl6-doc-cn/blob/master/CH05.md#%E7%BC%BA%E5%B0%91%E5%88%97%E8%A1%A8%E9%A1%B9)
+- [同时遍历多个数组](https://github.com/hwding/perl6-doc-cn/blob/master/CH05.md#%E5%90%8C%E6%97%B6%E9%81%8D%E5%8E%86%E5%A4%9A%E4%B8%AA%E6%95%B0%E7%BB%84)
+- [`Z`即`zip`](https://github.com/hwding/perl6-doc-cn/blob/master/CH05.md#z%E5%8D%B3zip)
+- [`xx` - 字符串倍率器](https://github.com/hwding/perl6-doc-cn/blob/master/CH05.md#xx%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%80%8D%E7%8E%87%E5%99%A8)
+- [排序](https://github.com/hwding/perl6-doc-cn/blob/master/CH05.md#%E6%8E%92%E5%BA%8F)
+- [使用`map`变换数组和列表](https://github.com/hwding/perl6-doc-cn/blob/master/CH05.md#%E4%BD%BF%E7%94%A8map%E5%8F%98%E6%8D%A2%E6%95%B0%E7%BB%84%E5%92%8C%E5%88%97%E8%A1%A8)
 ### 第六章 Perl6 Hashes
 - Hashes (Associative Arrays)
 - Fetching data from a hash
