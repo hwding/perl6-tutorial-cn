@@ -1,12 +1,14 @@
 # Perl6 入门指导
 <img height="64" width="64" src="https://perl6.org/camelia-logo.png" ></img>  
-翻译自 The-Perl-Maven's-Perl-6-Tutorial: http://perl6maven.com/tutorial/toc.
-## 关于
-译： [hwding](https://github.com/hwding) <<m@amastigote.com>>  
-仅供学习参考，不恰之处敬请指正。  
+译自 [The-Perl-Maven's-Perl-6-Tutorial](http://perl6maven.com/tutorial/toc)
+
+## 关于此翻译
 译文对原文表达不当之处做了适当的修改，在表达不清晰之处提供了译注，并优化了部分排版。  
 另外，由于历史原因原文中的部分内容可能出现因过时而导致的错误，在翻译时也会做相应的修正并附以译注。  
 对原文以及代码的修正会以PR的形式提交到网站镜像[szabgab/perl6maven.com](https://github.com/szabgab/perl6maven.com/pulls?utf8=%E2%9C%93&q=is%3Apr%20author%3Ahwding)。  
+
+## 关于原作者
+欢迎关注原作者[Gabor Szabo](https://github.com/szabgab)的新框架[Bailador](https://github.com/Bailador/Bailador)以及新书[*Web Application Development in Perl 6*](https://leanpub.com/bailador)
 
 ## 总目录
 ### [第一章 初探Perl6](https://github.com/hwding/perl6-doc-cn/blob/master/CH01.md#%E7%AC%AC%E4%B8%80%E7%AB%A0-%E5%88%9D%E6%8E%A2perl6)
