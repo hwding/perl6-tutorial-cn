@@ -78,15 +78,15 @@
 - [`xx` - 字符串倍率器](https://github.com/hwding/perl6-doc-cn/blob/master/CH05.md#xx%E5%AD%97%E7%AC%A6%E4%B8%B2%E5%80%8D%E7%8E%87%E5%99%A8)
 - [排序](https://github.com/hwding/perl6-doc-cn/blob/master/CH05.md#%E6%8E%92%E5%BA%8F)
 - [使用`map`变换数组和列表](https://github.com/hwding/perl6-doc-cn/blob/master/CH05.md#%E4%BD%BF%E7%94%A8map%E5%8F%98%E6%8D%A2%E6%95%B0%E7%BB%84%E5%92%8C%E5%88%97%E8%A1%A8)
-### 第六章 Perl6 Hashes
-- Hashes (Associative Arrays)
-- Fetching data from a hash
-- Multidimensional hashes
-- Count words
-- Overview of hashes
-- slurp hash
-- kv
-- Looping over keys of a hash
+### [第六章 Perl6散列](https://github.com/hwding/perl6-doc-cn/blob/master/CH06.md#perl6%E6%95%A3%E5%88%97)
+- [散列（哈希/联合数组）](https://github.com/hwding/perl6-doc-cn/blob/master/CH06.md#%E6%95%A3%E5%88%97%E5%93%88%E5%B8%8C%E8%81%94%E5%90%88%E6%95%B0%E7%BB%84)
+- [从散列中取值](https://github.com/hwding/perl6-doc-cn/blob/master/CH06.md#%E4%BB%8E%E6%95%A3%E5%88%97%E4%B8%AD%E5%8F%96%E5%80%BC)
+- [多维散列](https://github.com/hwding/perl6-doc-cn/blob/master/CH06.md#%E5%A4%9A%E7%BB%B4%E6%95%A3%E5%88%97)
+- [词频统计](https://github.com/hwding/perl6-doc-cn/blob/master/CH06.md#%E8%AF%8D%E9%A2%91%E7%BB%9F%E8%AE%A1)
+- [散列用法总览](https://github.com/hwding/perl6-doc-cn/blob/master/CH06.md#%E6%95%A3%E5%88%97%E7%94%A8%E6%B3%95%E6%80%BB%E8%A7%88)
+- [“啜食”散列](https://github.com/hwding/perl6-doc-cn/blob/master/CH06.md#%E5%95%9C%E9%A3%9F%E6%95%A3%E5%88%97)
+- [取出所有的键值对](https://github.com/hwding/perl6-doc-cn/blob/master/CH06.md#%E5%8F%96%E5%87%BA%E6%89%80%E6%9C%89%E7%9A%84%E9%94%AE%E5%80%BC%E5%AF%B9)
+- [取出所有的键](https://github.com/hwding/perl6-doc-cn/blob/master/CH06.md#%E5%8F%96%E5%87%BA%E6%89%80%E6%9C%89%E7%9A%84%E9%94%AE)
 ### 第七章 Perl5 to Perl6
 - Intro
 - Hello World
