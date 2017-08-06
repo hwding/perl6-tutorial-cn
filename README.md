@@ -87,17 +87,17 @@
 - [“啜食”散列](https://github.com/hwding/perl6-doc-cn/blob/master/CH06.md#%E5%95%9C%E9%A3%9F%E6%95%A3%E5%88%97)
 - [取出所有的键值对](https://github.com/hwding/perl6-doc-cn/blob/master/CH06.md#%E5%8F%96%E5%87%BA%E6%89%80%E6%9C%89%E7%9A%84%E9%94%AE%E5%80%BC%E5%AF%B9)
 - [取出所有的键](https://github.com/hwding/perl6-doc-cn/blob/master/CH06.md#%E5%8F%96%E5%87%BA%E6%89%80%E6%9C%89%E7%9A%84%E9%94%AE)
-### 第七章 Perl5 to Perl6
-- Intro
-- Hello World
-- Scalars
-- Arrays
-- Hashes
-- Control Structures
-- Functions
-- Files
-- Modules, Classes
-- Perl 5 to Perl 6
+### [第七章 从Perl5到Perl6](https://github.com/hwding/perl6-tutorial-cn/blob/master/CH07.md#%E4%BB%8Eperl5%E5%88%B0perl6)
+- [简介](https://github.com/hwding/perl6-tutorial-cn/blob/master/CH07.md#%E7%AE%80%E4%BB%8B)
+- [Hello World](https://github.com/hwding/perl6-tutorial-cn/blob/master/CH07.md#hello-world)
+- [标量变量](https://github.com/hwding/perl6-tutorial-cn/blob/master/CH07.md#%E6%A0%87%E9%87%8F%E5%8F%98%E9%87%8F)
+- [数组](https://github.com/hwding/perl6-tutorial-cn/blob/master/CH07.md#%E6%95%B0%E7%BB%84)
+- [哈希](https://github.com/hwding/perl6-tutorial-cn/blob/master/CH07.md#%E5%93%88%E5%B8%8C)
+- [控制结构](https://github.com/hwding/perl6-tutorial-cn/blob/master/CH07.md#%E6%8E%A7%E5%88%B6%E7%BB%93%E6%9E%84)
+- [函数](https://github.com/hwding/perl6-tutorial-cn/blob/master/CH07.md#%E5%87%BD%E6%95%B0)
+- [文件](https://github.com/hwding/perl6-tutorial-cn/blob/master/CH07.md#%E6%96%87%E4%BB%B6)
+- [模块和类](https://github.com/hwding/perl6-tutorial-cn/blob/master/CH07.md#%E6%A8%A1%E5%9D%97%E5%92%8C%E7%B1%BB)
+- [其他](https://github.com/hwding/perl6-tutorial-cn/blob/master/CH07.md#%E5%85%B6%E4%BB%96)
 ### 第八章 Testing in Perl6
 - skip a test
 ### 第九章 Object Oriented Perl6
